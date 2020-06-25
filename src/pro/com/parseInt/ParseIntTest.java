@@ -1,4 +1,4 @@
-package parseInt;
+package pro.com.parseInt;
 
 import static org.junit.jupiter.api.Assertions.*;
 

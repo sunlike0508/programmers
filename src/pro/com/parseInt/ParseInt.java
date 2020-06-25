@@ -1,4 +1,4 @@
-package parseInt;
+package pro.com.parseInt;
 
 public class ParseInt {
     public int solution(String s) {        
